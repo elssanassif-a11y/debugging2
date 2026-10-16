@@ -1,0 +1,3 @@
+wrong linking to css file in html
+white is written wrong in css
+wrong id toggle in js + wrong body writing+()missing in funct
